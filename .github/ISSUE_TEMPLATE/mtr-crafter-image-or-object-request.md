@@ -13,6 +13,10 @@ assignees: Forest103
 Request from:
 (Everyone who I can contact for your request, list out)
 
+Properties:
+(Item name)
+- (Item Height, Width, Texture resolution (1m/?px), etc. list out)
+
 **Resource**
 (Left your source here)
 
